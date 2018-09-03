@@ -4,6 +4,8 @@ The digital stop watch which counts downwards. It has 4 inputs: clk, min, sec & 
 
 The user determines the required count the stop watch start with, through defining the 2 inputs min & sec. Then start the counting through the input start_stop. The stop watch starts to count down from these predefined values till reaching zero. When the counting reaches zero, the output (finish) will be logic ‘1’.
 
+The report of project : https://drive.google.com/file/d/1OqDePRQ0IT-3DZWcRM2_95M4EVocZAXK/view?usp=sharing
+
 Written by eslam gamal elsayed as a project of digital design 
 
 Email: eslamgamal.201441@gmail.com
